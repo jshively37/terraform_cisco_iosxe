@@ -1,6 +1,6 @@
 # Terraform Interface Configuration
 
-Rough Terraform code using the Cisco DevNet Terraform provider to create/update/delete loopback interface on a CSR1000V router.
+Rough Terraform code using the [Cisco DevNet Terraform provider](https://registry.terraform.io/providers/CiscoDevNet/iosxe/0.1.1) to create/update/delete loopback interface on a CSR1000V router.
 
 Tested using eve-ng on Cisco IOS version:
 ```
