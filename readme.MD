@@ -1,5 +1,12 @@
 # Terraform Interface Configuration
 
+*** STILL IN DEVELOPMENT ***
+```
+Template yang models
+Remove hardcoded variables
+Logic to determine action to perform (add/update/delete)
+```
+
 This will use the Cisco DevNet Terraform provider to create/update/delete loopback interface on a CSR1000V router.
 
 Tested using eve-ng on Cisco IOS version:
